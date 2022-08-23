@@ -16,7 +16,7 @@ A typical coding assessment is a combination of multiple-choice questions and in
 n/a
 
 ## Functionality
-timed quiz on JavaScript fundamentals that stores high scores
+Timed quiz on JavaScript fundamentals that stores high scores.
 
 ## Credits
 n/a
