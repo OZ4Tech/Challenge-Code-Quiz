@@ -18,7 +18,7 @@ n/a
 ## Functionality
 Gives timed quiz on JavaScript fundamentals that stores high scores so that the user can gauge progress compared to my peers.
 
-## Credits
+## Contributions
 n/a
 
 ## License
