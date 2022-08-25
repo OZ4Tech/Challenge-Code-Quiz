@@ -33,8 +33,9 @@ Please contact https://github.com/OZ4Tech with any questions
 
 ## App Preview
 
-![App Preview]()
+(![Web Quiz](https://user-images.githubusercontent.com/103383531/186578907-60e53e80-13eb-4fc3-91db-53f19a1cc91c.gif)
+
 
 ## Deployed App Link
 
-Click [HERE]() to see our deployed app.
+Click [HERE](https://oz4tech.github.io/Challenge-Code-Quiz/) to see our deployed app.
